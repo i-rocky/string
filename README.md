@@ -1,6 +1,6 @@
 The String Gear
 ================================================================================
-Stolen from [https://github.com/i-rocky/string.git](https://github.com/i-rocky/string.git)
+Stolen from [https://github.com/phpgearbox/string.git](https://github.com/phpgearbox/string.git)
 
 > Changed Gears\String to Gears\Str for PHP 7.x support on v0.6.0, required for gears\pdf
 
